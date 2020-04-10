@@ -1,8 +1,8 @@
 {
   "SensorReading": [
-    { "Rainfall": "50mm": "Post 1" },
-    { "Windspeed": "100": "Post 2" },
-    { "Temperature": "120": "Post 3" }
+    { "Rainfall": "50mm"},
+    { "Windspeed": "100"},
+    { "Temperature": "120"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
