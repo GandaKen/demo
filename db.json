@@ -1,8 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "SensorReading": [
+    { "Rainfall": "50mm": "Post 1" },
+    { "Windspeed": "100": "Post 2" },
+    { "Temperature": "120": "Post 3" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
